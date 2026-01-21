@@ -85,7 +85,7 @@ const Footer = () => {
   </a>{" "}
   |{" "}
   <a
-    href="https://govinda-shah.vercel.app/"
+    href="https://yuvraj-verma.vercel.app/"
     target="_blank"
     rel="noreferrer"
     className="hover:underline cursor-pointer"
