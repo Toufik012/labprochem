@@ -71,9 +71,29 @@ const Footer = () => {
             <div className='bg-primary px-2 md:px-10 text-white '>
                 <div className='w-full md:max-w-6xl mx-auto flex flex-col md:flex-row gap-y-3 items-center justify-between  py-5'>
                     <span className='space-x-2'>
-                        <span>© 2025</span>
+                        <span>© 2026</span>
                         <strong>LABPRO CHEM.</strong>
-                        <span>All Rights Reserved.</span>
+                        <span>
+  All Rights Reserved. Crafted by{" "}
+  <a
+    href="https://govinda-shah.vercel.app/"
+    target="_blank"
+    rel="noreferrer"
+    className="hover:underline cursor-pointer"
+  >
+    Govinda
+  </a>{" "}
+  |{" "}
+  <a
+    href="https://govinda-shah.vercel.app/"
+    target="_blank"
+    rel="noreferrer"
+    className="hover:underline cursor-pointer"
+  >
+    Yuvraj
+  </a>
+</span>
+
                     </span>
                     <span className='flex items-center gap-6'>
                         <img className='w-5 cursor-pointer ' src="https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/id745SkyD0.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="" />
