@@ -81,7 +81,7 @@ const Footer = () => {
     rel="noreferrer"
     className="hover:underline cursor-pointer"
   >
-    Govinda
+    Govinda Shah
   </a>{" "}
   |{" "}
   <a
@@ -90,7 +90,7 @@ const Footer = () => {
     rel="noreferrer"
     className="hover:underline cursor-pointer"
   >
-    Yuvraj
+    Yuvraj Verma
   </a>
 </span>
 
