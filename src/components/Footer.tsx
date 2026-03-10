@@ -76,12 +76,12 @@ const Footer = () => {
                         <span>
   All Rights Reserved. Crafted by{" "}
   <a
-    href="https://govinda-shah.vercel.app/"
+    href="https://sarkariladka.com"
     target="_blank"
     rel="noreferrer"
     className="hover:underline cursor-pointer"
   >
-    Govinda Shah
+    Sarkari Ladka
   </a>{" "}
   |{" "}
   <a
